@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backenddemo\\site2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|d:\\backenddemo\\site2\\site2\\querystate1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\querystate1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\querystate2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\querystate2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\querystate2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\querystate2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\querystate1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\querystate1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\session1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\session1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\session2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\session2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\session2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\session2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\session1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\session1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\viewstateex.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\viewstateex.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\viewstateex.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\viewstateex.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\ipexample.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\ipexample.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\ipexample.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\ipexample.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|D:\\backenddemo\\site2\\site2\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{468BE172-C0CE-44E5-AC1B-3421C067941B}|site2\\site2.csproj|solutionrelative:site2\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "querystate1.aspx.cs",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\querystate1.aspx.cs",
+              "RelativeDocumentMoniker": "site2\\querystate1.aspx.cs",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\querystate1.aspx.cs",
+              "RelativeToolTip": "site2\\querystate1.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:47:54.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "querystate2.aspx.cs",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\querystate2.aspx.cs",
+              "RelativeDocumentMoniker": "site2\\querystate2.aspx.cs",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\querystate2.aspx.cs",
+              "RelativeToolTip": "site2\\querystate2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:49:35.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "querystate2.aspx",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\querystate2.aspx",
+              "RelativeDocumentMoniker": "site2\\querystate2.aspx",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\querystate2.aspx",
+              "RelativeToolTip": "site2\\querystate2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-24T17:49:15.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "querystate1.aspx",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\querystate1.aspx",
+              "RelativeDocumentMoniker": "site2\\querystate1.aspx",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\querystate1.aspx",
+              "RelativeToolTip": "site2\\querystate1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-24T17:47:17.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "session2.aspx.cs",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\session2.aspx.cs",
+              "RelativeDocumentMoniker": "site2\\session2.aspx.cs",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\session2.aspx.cs",
+              "RelativeToolTip": "site2\\session2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:45:55.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "session2.aspx",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\session2.aspx",
+              "RelativeDocumentMoniker": "site2\\session2.aspx",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\session2.aspx",
+              "RelativeToolTip": "site2\\session2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-24T17:45:16.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "session1.aspx.cs",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\session1.aspx.cs",
+              "RelativeDocumentMoniker": "site2\\session1.aspx.cs",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\session1.aspx.cs",
+              "RelativeToolTip": "site2\\session1.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:44:09.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "session1.aspx",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\session1.aspx",
+              "RelativeDocumentMoniker": "site2\\session1.aspx",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\session1.aspx",
+              "RelativeToolTip": "site2\\session1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-24T17:43:37.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "viewstateex.aspx.cs",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\viewstateex.aspx.cs",
+              "RelativeDocumentMoniker": "site2\\viewstateex.aspx.cs",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\viewstateex.aspx.cs",
+              "RelativeToolTip": "site2\\viewstateex.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:42:01.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "viewstateex.aspx",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\viewstateex.aspx",
+              "RelativeDocumentMoniker": "site2\\viewstateex.aspx",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\viewstateex.aspx",
+              "RelativeToolTip": "site2\\viewstateex.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-24T17:41:27.935Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPexample.aspx.cs",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\IPexample.aspx.cs",
+              "RelativeDocumentMoniker": "site2\\IPexample.aspx.cs",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\IPexample.aspx.cs",
+              "RelativeToolTip": "site2\\IPexample.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:39:18.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPexample.aspx",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\IPexample.aspx",
+              "RelativeDocumentMoniker": "site2\\IPexample.aspx",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\IPexample.aspx",
+              "RelativeToolTip": "site2\\IPexample.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-24T17:38:41.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\backenddemo\\site2\\site2\\Site1.Master",
+              "RelativeDocumentMoniker": "site2\\Site1.Master",
+              "ToolTip": "D:\\backenddemo\\site2\\site2\\Site1.Master",
+              "RelativeToolTip": "site2\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-24T17:35:17.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

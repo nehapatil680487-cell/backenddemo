@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backenddemo\\master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{436F7A10-B108-4070-AC0E-1E8A009C1321}|master\\master.csproj|d:\\backenddemo\\master\\master\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{436F7A10-B108-4070-AC0E-1E8A009C1321}|master\\master.csproj|solutionrelative:master\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site2.Master",
+              "DocumentMoniker": "D:\\backenddemo\\master\\master\\Site2.Master",
+              "RelativeDocumentMoniker": "master\\Site2.Master",
+              "ToolTip": "D:\\backenddemo\\master\\master\\Site2.Master",
+              "RelativeToolTip": "master\\Site2.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-26T14:53:30.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
